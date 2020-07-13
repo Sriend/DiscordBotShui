@@ -1,0 +1,1646 @@
+﻿[
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Muscle Talisman V",
+        "Item Type": "Special Gear",
+        "Lv Item": "NPC",
+        "Lv Diff": "NPC",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "DEX Talisman V",
+        "Item Type": "Special Gear",
+        "Lv Item": "NPC",
+        "Lv Diff": "NPC",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "INT Talisman V",
+        "Item Type": "Special Gear",
+        "Lv Item": "NPC",
+        "Lv Diff": "NPC",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Bark Mail",
+        "Item Type": "Armor",
+        "Lv Item": "180",
+        "Lv Diff": "185",
+        "Farm": "N",
+        "Mat Name": "Broken Kuzto Mask\n"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Indigo Jet Sword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "175",
+        "Lv Diff": "180",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Rilevatore",
+        "Item Type": "Magic Device",
+        "Lv Item": "175",
+        "Lv Diff": "180",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Sapphire Mace",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "175",
+        "Lv Diff": "180",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Eroded Rebellion",
+        "Item Type": "Halberd",
+        "Lv Item": "165",
+        "Lv Diff": "170",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Flower Nectar",
+        "Item Type": "Material",
+        "Lv Item": "160",
+        "Lv Diff": "240",
+        "Farm": "N",
+        "Mat Name": "Tasty Honey\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Dark Dragon Fang Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "160",
+        "Lv Diff": "165",
+        "Farm": "N",
+        "Qty": "1\n1\n1200\n450",
+        "Mat Name": "Dark Gemstone\nFinstern Horns\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Dragon Claw Katana",
+        "Item Type": "Katana",
+        "Lv Item": "160",
+        "Lv Diff": "165",
+        "Farm": "N",
+        "Qty": "1\n2\n900\n750",
+        "Mat Name": "Dark Gemstone\nFinstern Claws\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Heaven Feather Garb",
+        "Item Type": "Armor",
+        "Lv Item": "160",
+        "Lv Diff": "165",
+        "Farm": "N",
+        "Qty": "3\n1\n1500\n150",
+        "Mat Name": "Red Satin Fabric\nHigh Grade Frill Fabric\nCloth\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Piton Staff",
+        "Item Type": "Staff",
+        "Lv Item": "160",
+        "Lv Diff": "165",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Piton Wristband",
+        "Item Type": "Knuckle",
+        "Lv Item": "160",
+        "Lv Diff": "165",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Garb",
+        "Item Type": "Armor",
+        "Lv Item": "150",
+        "Lv Diff": "155",
+        "Farm": "N",
+        "Qty": "7\n1000\n500\n50",
+        "Mat Name": "Lil Empress Cloth Piece\nCloth\nMana\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Armigma",
+        "Item Type": "Armor",
+        "Lv Item": "90",
+        "Lv Diff": "95",
+        "Farm": "N",
+        "Qty": "0\n0\n500\n450",
+        "Mat Name": "Evil Crystal Beast Horn\nCore of Magic Crystal Beast\nCloth\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Eroded Strahl",
+        "Item Type": "Bow",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Punisher Bow",
+        "Item Type": "Bow",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Bexiz Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Qty": "4\n1\n600\n400",
+        "Mat Name": "Bexiz Magic Cannon\nMagic Energy Core\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Magic Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "45",
+        "Lv Diff": "50",
+        "Farm": "N",
+        "Mat Name": "Mauez's Broken Rod\nRunestone"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Edged Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "55",
+        "Lv Diff": "60",
+        "Farm": "N",
+        "Qty": "24\n16\n110\n40",
+        "Mat Name": "Harde Scissor\nTwisted Wood Stick\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Empress Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "60",
+        "Lv Diff": "65",
+        "Farm": "N",
+        "Qty": "3\n1\n400\n250",
+        "Mat Name": "Empress Medal\nEmpress Aura\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Ignis Glaive",
+        "Item Type": "Halberd",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Warrior Angel Halberd",
+        "Item Type": "Halberd",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N",
+        "Qty": "1\n2\n1200\n400",
+        "Mat Name": "Scared Jewel\nBroken Holy Scale\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Adamantite Katana",
+        "Item Type": "Katana",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Vise Claws",
+        "Item Type": "Knuckle",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Bayonet",
+        "Item Type": "Bowgun",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "Y",
+        "Qty": "20\n20\n200\n50",
+        "Mat Name": "Broken Maganize\nTough Tentacle\nMetal\nMedicine",
+        "Market Price": "45000\n45000"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Aquarator",
+        "Item Type": "Magic Device",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Warrior Angel Armor",
+        "Item Type": "Magic Device",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n600",
+        "Mat Name": "Sacred Jewel\nMardula Wing\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Holy Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Death Eater",
+        "Item Type": "Bow",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Qty": "2\n1\n750\n250",
+        "Mat Name": "Cerberus Head Crystal\nChain of Purgatory\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Skeleton Bow",
+        "Item Type": "Bow",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Qty": "30\n20\n150\n100",
+        "Mat Name": "Iron Carapace\nBig Spanner\nMetal\nWood",
+        "Market Price": "18000\n12000"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Spirit Staff",
+        "Item Type": "Staff",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Paladin Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Ghastly Edge",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Epetal",
+        "Item Type": "Knuckle",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Mat Name": "Unstopabble Clock Hand\nCrooked Blade\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Gardien",
+        "Item Type": "Knuckle",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Mat Name": "Cerberus Hell Claw\nCerberus Head Crystal\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Dark General's Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Mat Name": "Broken Dark Greatsword\nHigh-Purity Magic Crystal\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Double Strings",
+        "Item Type": "Bowgun",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "Y",
+        "Qty": "4\n30\n150\n75",
+        "Mat Name": "Graben Crystal\nCorroded Armor Fragment\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Soldier Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Qty": "20\n20\n150\n100",
+        "Mat Name": "Curved Blade\nCracked Stone Skin\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Bexiz Staff",
+        "Item Type": "Staff",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Mat Name": "Broken Floating Stone\nMagic Energy Core\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Priest Mace",
+        "Item Type": "Staff",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Sealing Blade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "95",
+        "Lv Diff": "100",
+        "Farm": "N",
+        "Mat Name": "Crooked Blade\nCondensed Heavy Oil\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Metal Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "20\n30\n175\n100",
+        "Mat Name": "Stretchable Wire\nTubular Part\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Sefeed Bow",
+        "Item Type": "Bow",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "5\n30\n150\n125",
+        "Mat Name": "Hard Glass\nMoss Log\nWood\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Sinergatis",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "1\n3\n1000\n100",
+        "Mat Name": "Iconos Core\nFuel Pipe\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Zaif Sadik",
+        "Item Type": "Knuckle",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "2\n1\n800\n300",
+        "Mat Name": "Iconos Core\nRepair Tool Kit\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Battle Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "20\n5\n200\n75",
+        "Mat Name": "Plant Fang\nFlame Gunpowder\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Leve Fang",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "2\n4\n900\n200",
+        "Mat Name": "Proto Leon's Hammer Bit\nCrystalized Huge Claw\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Leve Bow",
+        "Item Type": "Bow",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "1\n2\n900\n200",
+        "Mat Name": "Savage Beast Mane\nAncient Fabric\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Vulcan Staff",
+        "Item Type": "Staff",
+        "Lv Item": "105",
+        "Lv Diff": "110",
+        "Farm": "N",
+        "Qty": "1\n2\n800\n300",
+        "Mat Name": "Scorching Heart\nBroken Robot Arm\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Frost Skirt",
+        "Item Type": "Magic Device",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "N",
+        "Qty": "20\n20\n250\n50",
+        "Mat Name": "Heavy Wheel\nCracked Heatproof Board\nWood\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Noble Glaive",
+        "Item Type": "Halberd",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Wind Rapier",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "N",
+        "Qty": "5\n20\n150\n150",
+        "Mat Name": "Scattered Crystal\nSpiky Fang\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Steel Machine Greatsword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "N",
+        "Qty": "20\n30\n250\n50",
+        "Mat Name": "Tough Jaw\nBroken Bat\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Einsamkeit",
+        "Item Type": "Halberd",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "Y",
+        "Qty": "1\n2\n1000\n200",
+        "Mat Name": "Energy Core\nLauncher Arm\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Fusee Trahison",
+        "Item Type": "Bowgun",
+        "Lv Item": "115",
+        "Lv Diff": "120",
+        "Farm": "Y",
+        "Qty": "1\n4\n1000\n200",
+        "Mat Name": "Energy Core\nMagic Cannon Part\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Holy Robe",
+        "Item Type": "Armor",
+        "Lv Item": "120",
+        "Lv Diff": "125",
+        "Farm": "Y",
+        "Qty": "3\n750\n250\n250",
+        "Mat Name": "York's Memo Paper\nCloth\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Diomedea Suit",
+        "Item Type": "Armor",
+        "Lv Item": "120",
+        "Lv Diff": "125",
+        "Farm": "Y",
+        "Qty": "25\n10\n250\n50",
+        "Mat Name": "Ox Fabric\nUltimea Stone\nCloth\nMetal",
+        "Market Price": "25000\n10000"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Zahhak Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n300",
+        "Mat Name": "Twin Head Dragon Heart\nTwin Head Dragon Tail\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Spirit's Tear",
+        "Item Type": "Staff",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n300",
+        "Mat Name": "Forest Spirit's Kotodama\nMagic Charged Rock\nWood\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Mozt Armor",
+        "Item Type": "Armor",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "1\n2\n3\n1300",
+        "Mat Name": "Chimera's Evil Eye\nChimera Hard Horn\nChimera Claw\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Caro Tesla",
+        "Item Type": "Katana",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n300",
+        "Mat Name": "Mystic Crystal Stone\nMagic Charged Rock\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Waldfee",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n300",
+        "Mat Name": "Mystic Crystal Stone\nMagic Charged Rock\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Elfin Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N",
+        "Qty": "20\n5\n200\n125",
+        "Mat Name": "White Wood\nDragon Azul Sphere\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Spada Lance",
+        "Item Type": "Halberd",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Curved Edge",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "125",
+        "Lv Diff": "130",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Order Espada",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "130",
+        "Lv Diff": "135",
+        "Farm": "N",
+        "Qty": "1\n1\n1\n1350",
+        "Mat Name": "Ether Metal\nChief BK Loincloth\nChief BK Emblem\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Gwai Reaper",
+        "Item Type": "Halberd",
+        "Lv Item": "130",
+        "Lv Diff": "135",
+        "Farm": "N",
+        "Qty": "1\n1\n1\n1350",
+        "Mat Name": "Ether Metal\nChief BK Shoulder Armor\nGwaimol's Huge Blade\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Clarity Rose",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "130",
+        "Lv Diff": "135",
+        "Farm": "N",
+        "Qty": "1\n1\n10\n1350",
+        "Mat Name": "Ether Metal\nChief BK Emblem\nMachina Blood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Armcrie",
+        "Item Type": "Halberd",
+        "Lv Item": "130",
+        "Lv Diff": "135",
+        "Farm": "N",
+        "Qty": "3\n1\n1000\n350",
+        "Mat Name": "Ultimate Machina Arm\nSealed Eyeball\nBeast\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Iradium",
+        "Item Type": "Katana",
+        "Lv Item": "130",
+        "Lv Diff": "135",
+        "Farm": "N",
+        "Qty": "3\n1\n900\n450",
+        "Mat Name": "Patched Flesh\nUltimate Machina Claw\nBeast\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Seiun",
+        "Item Type": "Katana",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "5\n20\n250\n100",
+        "Mat Name": "Ice Wolf Fang\nCracked Halo\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Anemos Blade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "5\n20\n200\n150",
+        "Mat Name": "Green Crystal Fragment\nBlessing Gods Stone\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lightning Bolt Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "5\n20\n300\n50",
+        "Mat Name": "Shininh Stone Monument\nCracked Halo\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Calibur",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "5\n20\n800\n150",
+        "Mat Name": "Divine Metal\nGlossy Black Leather\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Tenebrosity Bow",
+        "Item Type": "Bow",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "25\n5\n200\n150",
+        "Mat Name": "Ivy Vine\nSpiky Horns\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Laurel Staff",
+        "Item Type": "Staff",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "5\n5\n300\n50",
+        "Mat Name": "Mystic Gemstone\nElven Stone\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Prism Ring",
+        "Item Type": "Magic Device",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "1\n10\n300\n50",
+        "Mat Name": "Shining Mirror\nShining Tail\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "White Bear Knuckles",
+        "Item Type": "Knuckle",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "20\n15\n300\n50",
+        "Mat Name": "Bag Bear Fur\nSilver Claw\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Achti Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "135",
+        "Lv Diff": "140",
+        "Farm": "N",
+        "Qty": "15\n20\n250\n100",
+        "Mat Name": "Lithograph of Age of Gods\nPurple Fin\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Greatsword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n3\n1000\n450",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Crystal\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Magic Device",
+        "Item Type": "Magic Device",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n3\n750\n700",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Crystal\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Katana",
+        "Item Type": "Katana",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n3\n900\n550",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Crystal\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n1\n1000\n450",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Horn\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Knuckles",
+        "Item Type": "Knuckle",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n1\n1300\n150",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Horn\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Staff",
+        "Item Type": "Staff",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n1\n750\n700",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Horn\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Bow",
+        "Item Type": "Bow",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n1\n800\n650",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Horn\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Halberd",
+        "Item Type": "Halberd",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n1\n900\n550",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Horn\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Maton Saber",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "N",
+        "Qty": "2\n1\n1200\n250",
+        "Mat Name": "Old Type Blade Material\nSlebinian Magic Torch\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Maton Railgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "N",
+        "Qty": "2\n1\n950\n500",
+        "Mat Name": "Broken Booster\nSlebinian Magic Torch\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Lil Empress Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "Y",
+        "Qty": "2\n3\n800\n650",
+        "Mat Name": "Lil Accessory Chip\nLil Empress Crystal\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Maton Saber",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "140",
+        "Lv Diff": "145",
+        "Farm": "N",
+        "Qty": "2\n1\n1200\n250",
+        "Mat Name": "Old Type Blade Material\nSlebinian Magic Torch\nMetal\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Soldier Armor",
+        "Item Type": "Armor",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "3\n1\n1000\n500",
+        "Mat Name": "Cracked Old Type Armor\nChrome\nMetal\nCloth"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Zel Shooter",
+        "Item Type": "Bow",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "1\n3\n750\n750",
+        "Mat Name": "Cracked Celestial Sphere\nZelbuse Wing of Light\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Crystal Knuckles",
+        "Item Type": "Knuckle",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "2\n2\n900\n600",
+        "Mat Name": "Rare Diopside\nCorroded Stone Hand\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Fluck Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "1\n2\n1000\n500",
+        "Mat Name": "Blue Rock Fragment\nVivid Chest\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Deseperanza",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "N",
+        "Qty": "5\n20\n20\n225",
+        "Mat Name": "Deformed Blade\nJetblack Shield Fragment\nDarkness Mushroom\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "PollAxe",
+        "Item Type": "Halberd",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "N",
+        "Mat Name": "Hot Fang\nDeformed Fist"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Kuro Momiji",
+        "Item Type": "Katana",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "N",
+        "Qty": "5\n5\n200\n25",
+        "Mat Name": "Scorching Grass\nEvil Blade\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Panzer Bow",
+        "Item Type": "Bow",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "N",
+        "Qty": "20\n5\n150\n75",
+        "Mat Name": "Hot Horn\nCracked Platinum Armguard\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Shotel",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "5\n20\n200\n175",
+        "Mat Name": "Broken Stem\nClimbing Claw\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Indigo Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "85",
+        "Lv Diff": "90",
+        "Farm": "Y",
+        "Qty": "20\n5\n125\n100",
+        "Mat Name": "Heated Sword Fin\nDeformed Blade\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Icebrand Glacier",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "80",
+        "Lv Diff": "85",
+        "Farm": "N",
+        "Qty": "1\n5\n3\n425",
+        "Mat Name": "Ice Rose\nTwilight Dragon Wing\nEvil Crystal Beast Claw\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Frostbrand Rime",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "80",
+        "Lv Diff": "85",
+        "Farm": "N",
+        "Qty": "1\n5\n3\n425",
+        "Mat Name": "Ice Rose\nTwilight Dragon Wing\nEvil Crystal Beast Claw\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Brigandine",
+        "Item Type": "Armor",
+        "Lv Item": "80",
+        "Lv Diff": "85",
+        "Farm": "N",
+        "Qty": "9\n3\n300\n125",
+        "Mat Name": "Unknown Part\nScrader Crystal\nMetal\nCloth"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Scrader Mace",
+        "Item Type": "Staff",
+        "Lv Item": "75",
+        "Lv Diff": "80",
+        "Farm": "N",
+        "Qty": "2\n3\n300\n100",
+        "Mat Name": "Strange Head Part\nUnknown Part\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Flame Blade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "75",
+        "Lv Diff": "80",
+        "Farm": "N",
+        "Qty": "6\n3\n1\n200",
+        "Mat Name": "Stone of Sublimation\nGemstone of Sublimation\nScorching Onion\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Black Sword of Delusion",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "75",
+        "Lv Diff": "80",
+        "Farm": "N",
+        "Qty": "1\n2\n500\n250",
+        "Mat Name": "Ominous Crystal\nEvil Energy of Delusion\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Grand Horn Bow",
+        "Item Type": "Bow",
+        "Lv Item": "75",
+        "Lv Diff": "80",
+        "Farm": "N",
+        "Qty": "20\n6\n150\n50",
+        "Mat Name": "Rainbow Glass\nGoblin's Big Nail\nWood\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Ilwoon",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "75",
+        "Lv Diff": "80",
+        "Farm": "Y",
+        "Qty": "5\n30\n150\n50",
+        "Mat Name": "Mithril Ore\nRusty Huge Axe\nMetal\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Crystal Wand",
+        "Item Type": "Staff",
+        "Lv Item": "65",
+        "Lv Diff": "70",
+        "Farm": "N",
+        "Qty": "30\n5\n150\n25",
+        "Mat Name": "Broken Glass\nTree Spirit Soul\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Folium Staff",
+        "Item Type": "Staff",
+        "Lv Item": "65",
+        "Lv Diff": "70",
+        "Farm": "N",
+        "Qty": "4\n1\n500\n200",
+        "Mat Name": "Grass Dragon's Skin\nGrass Dragon's Petal\nWood\nMedicine"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Luminous Mushroom Staff",
+        "Item Type": "Staff",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "3\n1\n1000\n500",
+        "Mat Name": "Broken Mushroom Hammer\nMedicine Mushroom\nMedicine\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Berserker Blade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "60",
+        "Lv Diff": "65",
+        "Farm": "N",
+        "Qty": "3\n2\n500\n150",
+        "Mat Name": "Greatsword Fragment\nHeavy Touch Chain\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Empress Soul",
+        "Item Type": "Magic Device",
+        "Lv Item": "60",
+        "Lv Diff": "65",
+        "Farm": "Y",
+        "Qty": "3\n1\n350\n300",
+        "Mat Name": "Empress Aura\nEmpress Hair Accesory\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Mace of Destruction",
+        "Item Type": "Staff",
+        "Lv Item": "55",
+        "Lv Diff": "60",
+        "Farm": "N",
+        "Mat Name": "Broken Huge Mace\nOre of Another World"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Triangulum Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Iron ExoSkeleton Sword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "50",
+        "Lv Diff": "55",
+        "Farm": "Y",
+        "Qty": "1\n4\n500",
+        "Mat Name": "Mineral Scissor\nCrustacean Steel\nMetal"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Giga Speed Potion",
+        "Item Type": "Comsumable",
+        "Lv Item": "48",
+        "Lv Diff": "51",
+        "Farm": "Y",
+        "Mat Name": "Mana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Aqua Garb",
+        "Item Type": "Armor",
+        "Lv Item": "45",
+        "Lv Diff": "50",
+        "Farm": "N",
+        "Qty": "2\n15\n10\n250",
+        "Mat Name": "Heaven Bird Crest\nHeaven Bird Tear\nWhite Fur\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Porpupine Crossbow",
+        "Item Type": "Bowgun",
+        "Lv Item": "155",
+        "Lv Diff": "160",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Mauez's Pole",
+        "Item Type": "Halberd",
+        "Lv Item": "45",
+        "Lv Diff": "50",
+        "Farm": "N",
+        "Mat Name": "Mauez's Broken Rod\nRunestone"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Steel Leaf Bow",
+        "Item Type": "Bow",
+        "Lv Item": "45",
+        "Lv Diff": "50",
+        "Farm": "Y",
+        "Qty": "5\n20\n80\n45",
+        "Mat Name": "Fine Sand\nBone Fragment\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Ooze Staff",
+        "Item Type": "Staff",
+        "Lv Item": "40",
+        "Lv Diff": "45",
+        "Farm": "N",
+        "Mat Name": "Luminous Magic Water\nNew Moon Stone"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Brutal Dragon Armor",
+        "Item Type": "Armor",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "N",
+        "Mat Name": "Brutal Dragon Skin\nBrutal Dragon Horn"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Volcanic Claw",
+        "Item Type": "Knuckle",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "N",
+        "Mat Name": "Flare Volg Claw\nFiery Gemstone"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Volcanic Sword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "N",
+        "Mat Name": "Flare Volg Horn\nFiery Gemstone"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Volcanic Claws",
+        "Item Type": "Knuckle",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "Y",
+        "Qty": "3\n1\n125\n75",
+        "Mat Name": "Flare Volg Claw\nFiery Gemstone\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Volcanic Sword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "Y",
+        "Qty": "2\n1\n175\n25",
+        "Mat Name": "Flare Volg Horn\nFiery Gemstone\nMetal\nMana"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Rock Staff",
+        "Item Type": "Staff",
+        "Lv Item": "35",
+        "Lv Diff": "40",
+        "Farm": "Y",
+        "Qty": "20\n5\n75\n25",
+        "Mat Name": "Lutaros Stone\nMagic Marrionette Heart\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Adel Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "35",
+        "Lv Diff": "40"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Brutal Dragon Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "30",
+        "Lv Diff": "35",
+        "Farm": "Y",
+        "Qty": "1\n4\n100\n75",
+        "Mat Name": "Brutal Dragon Tail\nBrutal Dragon Claw\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Sabre",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "25",
+        "Lv Diff": "30",
+        "Farm": "N",
+        "Qty": "20\n30",
+        "Mat Name": "Fatigued Blade\nSharp Fang"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Longblade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "25",
+        "Lv Diff": "30",
+        "Farm": "N",
+        "Qty": "30\n30",
+        "Mat Name": "Sharp Fang\nFatigued Blade"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Bardiche",
+        "Item Type": "Halberd",
+        "Lv Item": "25",
+        "Lv Diff": "30",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Minotaur Knuckles",
+        "Item Type": "Knuckle",
+        "Lv Item": "25",
+        "Lv Diff": "30",
+        "Farm": "Y",
+        "Qty": "1\n4\n250\n50",
+        "Mat Name": "Minotaur Horn\nMinotaur Hoof\nBeast\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Warrior Mail",
+        "Item Type": "Armor",
+        "Lv Item": "20",
+        "Lv Diff": "30",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Mage Robe",
+        "Item Type": "Armor",
+        "Lv Item": "20",
+        "Lv Diff": "30",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Magic Crystal Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "20",
+        "Lv Diff": "25",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Leather Armor",
+        "Item Type": "Armor",
+        "Lv Item": "15",
+        "Lv Diff": "25",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Gladius",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "15",
+        "Lv Diff": "20",
+        "Farm": "N",
+        "Qty": "25\n25",
+        "Mat Name": "Jagged Fang\nNicked Blade"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Heavy Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "15",
+        "Lv Diff": "20",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Great Sword",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "15",
+        "Lv Diff": "20",
+        "Farm": "Y",
+        "Qty": "25\n15",
+        "Mat Name": "Broken Metal\nNisel Wood",
+        "Market Price": "-"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Longsword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "5",
+        "Lv Diff": "10",
+        "Farm": "N",
+        "Qty": "20",
+        "Mat Name": "Small Hilt"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Glavie",
+        "Item Type": "Halberd",
+        "Lv Item": "5",
+        "Lv Diff": "10",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Adventure's Garb",
+        "Item Type": "Armor",
+        "Lv Item": "5",
+        "Lv Diff": "15",
+        "Farm": "Y",
+        "Qty": "35\n40",
+        "Mat Name": "Bird Wing\nCloth",
+        "Market Price": "5,000"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Nameless Uchigatana",
+        "Item Type": "Katana",
+        "Lv Item": "5",
+        "Lv Diff": "10",
+        "Farm": "Y",
+        "Mat Name": "Wood Chip\nMetal"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "1",
+        "Lv Diff": "1",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Shortsword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "1",
+        "Lv Diff": "1",
+        "Farm": "Y",
+        "Qty": "3",
+        "Mat Name": "Metal",
+        "Market Price": "-"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Wood Sword",
+        "Item Type": "One-Handed Sword",
+        "Lv Item": "1",
+        "Lv Diff": "0",
+        "Farm": "Y",
+        "Qty": "25",
+        "Mat Name": "Wood",
+        "Market Price": "-"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Trident",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Blade Lance",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Mezraq",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Knight Lance",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Floral Lance",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Thunder Spear",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Ice Spear Glaso",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Intruder",
+        "Item Type": "Halberd",
+        "Lv Item": "0",
+        "Lv Diff": "0",
+        "Farm": "N"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Zel Blade",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "1\n3\n1250\n250",
+        "Mat Name": "Cracked Celestial Sphere\nSublime Monolith\nMetal\nBeast"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Fluck Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "2\n1\n1250\n250",
+        "Mat Name": "Mom Fluck Web\nFluck Egg\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Rozerum",
+        "Item Type": "Two-Handed Sword",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "5\n5\n350\n25",
+        "Mat Name": "Temptation Flower\nLunar Rock\nMetal\nMana",
+        "Mon Name": "Refflesian\nWolfret"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Elfin Bow",
+        "Item Type": "Bow",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "10\n15\n300\n75",
+        "Mat Name": "Beautiful Tortoiseshell\nEin Wood\nWood\nBeast",
+        "Mon Name": "Roca\nLilliset"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Fluck Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "2\n1\n1250\n250",
+        "Mat Name": "Mom Fluck Web\nFluck Egg\nBeast\nWood"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Natra Bowgun",
+        "Item Type": "Bowgun",
+        "Lv Item": "145",
+        "Lv Diff": "150",
+        "Farm": "N",
+        "Qty": "20\n15\n250\n125",
+        "Mat Name": "Old Metal Part\nBroken Flame Arrester\nWood\nMetal"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Orihalcum",
+        "Item Type": "Material"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Mithril",
+        "Item Type": "Material"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Hematite",
+        "Item Type": "Material"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita I",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita II",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita III",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita IV",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita V",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Revita VI",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Regera I",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Regera II",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Regera III",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Regera IV",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Smithing",
+        "Item Name": "Elfin Armor",
+        "Item Type": "Armor",
+        "Lv Item": "150",
+        "Lv Diff": "155",
+        "Farm": "N",
+        "Qty": "10\n10\n300\n90",
+        "Mat Name": "Elf Ingot\nPetrified Wood\nCloth\nMetal",
+        "Market Price": "120000\n120000",
+        "Mon Name": "Mobster Golem\nPetally"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Regera V",
+        "Item Type": "Comsumable"
+    },
+    {
+        "Recipe Type": "Alchemy",
+        "Item Name": "Flower Nectar",
+        "Item Type": "Material"
+    }
+]

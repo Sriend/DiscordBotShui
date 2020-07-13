@@ -1,0 +1,31 @@
+{
+  "name": "shuinya",
+  "version": "0.0.1",
+  "description": "Shui Discord Bot",
+  "main": "index.js",
+  "author": "Shui Rin",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "mongodb-stitch-browser-sdk": "^4.8.0",
+    "mongoose": "^5.9.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Shui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sriend/DiscordBotShui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sriend/DiscordBotShui/issues"
+  },
+  "homepage": "https://github.com/Sriend/DiscordBotShui#readme"
+}
