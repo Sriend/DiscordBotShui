@@ -15,13 +15,9 @@ bot.login(Token);
 // Ready
 bot.on('ready',()=>{
     console.log("Shui is Online");
-    bot.user.setPresence({
-        status:"online",
-        game:{
-            name:"Developing...",
-            type:"Basic"
-        }
-    });
+    let size = bot.guild.size();
+    bot.user.setPresence({status:"online",game:{name:"Developing...",type:"Basic"}});
+    bot.user.setGame(`Developing...`,`Total ${size} Server on Develop!`);
 });
 // Guild Member Add
 bot.on('guildMemberAdd', member =>{
