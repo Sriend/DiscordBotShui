@@ -8,7 +8,7 @@ module.exports = {
     run: async (client, message, args)=>{
         let embed = new Discord.MessageEmbed();
         embed.setTitle(message.author.username);
-        embed.setDescription(message.author.displayAvatarURL());
+        embed.setImage(message.author.displayAvatarURL());
         message.channel.send(embed);
     }
 }
