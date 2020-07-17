@@ -4,7 +4,7 @@ module.exports = {
     aliases: "s count",
     group: "Utility",
     desc: "Set Member Count!",
-    usage: "<input>",
+    usage: "set [<channel>][<guild>|<bot>|<member>|<all>]",
     run: async (client, message, args)=>{
         message.channel.send("Set Channel to Count!");
         message.channel.awaitMessages();
