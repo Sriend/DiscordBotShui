@@ -10,5 +10,6 @@ module.exports = {
         await message.channel.messages.fetch({limit: num}).then(msg=>{
             message.channel.bulkDelete(msg);
         });
+        message.delete();
     }
 }
