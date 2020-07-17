@@ -1,6 +1,17 @@
 {
     "name":[
         "roll",
+        "build",
+        "combo",
+        "dungeon",
+        "event",
+        "food",
+        "item",
+        "xtal",
+        "map",
+        "market",
+        "maze",
+        "skill",
         "/ping",
         "/avatar",
         "/recipe",
