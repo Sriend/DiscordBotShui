@@ -6,8 +6,7 @@ module.exports = {
     desc: "Update Bot activities.",
     usage: "<input>",
     run: async (client, message, args)=>{
-        message.channel.send(message.author.id);
-        if(message.author.id === "195983734644801536") return;
+        if(message.author.id !== "195983734644801536") return;
         //const msg = await message.channel.send(` Pinging...`);
         //let embed = new Discord.MessageEmbed();
         //embed.setDescription(`\`${msg.createdAt - message.createdAt}ms\``);
