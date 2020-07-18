@@ -1,6 +1,6 @@
 const Discord    = require("discord.js");
 module.exports = {
-    name: "potum news",
+    name: "toramnews",
     aliases: ["p news","p n"],
     group: "Toram",
     desc: "Show Current Active news",

@@ -6,8 +6,9 @@ module.exports = {
     desc: "Show Item Price of Current",
     usage: "name [<name>|<add>|<update>|<delete>]",
     run: async (client, message, args)=>{
-        let name = args.join(" ");
-        if(!name) return message.channel.send("input farm list!");
+        let farm = new Array("metal","cloth","beast","wood","medicine","mana");
+        let name = args[0];
+        if(!name || farm.isInclude(name)) return message.channel.send("input farm list!");
         let embed = new Discord.MessageEmbed();
         //let data  = require("");
         embed.setTitle(`${name}`);
