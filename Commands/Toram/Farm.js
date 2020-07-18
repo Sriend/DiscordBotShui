@@ -10,7 +10,7 @@ module.exports = {
         let name = farm.filter(f=>{ return f.includes(args[0]);})[0];
         if(!name) return message.channel.send("input farm list!");
         let embed = new Discord.MessageEmbed();
-        let data  = (require("../../Database/Toram/farm.json")).filter(f=> f[`${name}`]);
+        let data  = require("../../Database/Toram/farm.json");
         console.log(data);
         embed.setTitle(`${name} Materials`);
         switch(name){
