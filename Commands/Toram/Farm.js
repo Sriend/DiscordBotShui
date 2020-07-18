@@ -8,9 +8,10 @@ module.exports = {
     run: async (client, message, args)=>{
         let farm = new Array("metal","cloth","beast","wood","medicine","mana");
         let name = farm.filter(f=>{ return f.includes(args[0]);})[0];
-        console.log(name);
         if(!name) return message.channel.send("input farm list!");
         let embed = new Discord.MessageEmbed();
+        let data  = require("../../Database/Toram/farm.json").filter(f=> f[`${name}`]);
+        console.log(data);
         embed.setTitle(`${name} Materials`);
         switch(name){
             case "metal":
