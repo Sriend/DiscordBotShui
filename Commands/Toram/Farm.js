@@ -7,12 +7,26 @@ module.exports = {
     usage: "name [<name>|<add>|<update>|<delete>]",
     run: async (client, message, args)=>{
         let farm = new Array("metal","cloth","beast","wood","medicine","mana");
-        let name = args[0];
-        if(!name || farm.isInclude(name)) return message.channel.send("input farm list!");
+        let name = farm.filter(f=>{ return f === args[0];});
+        if(!name) return message.channel.send("input farm list!");
         let embed = new Discord.MessageEmbed();
         //let data  = require("");
-        embed.setTitle(`${name}`);
-        embed.setDescription(`Show of Farm List!`);
+        embed.setTitle(`${name} Materials`);
+        switch(name){
+            case "metal":
+                embed.addField("Item Name","Cracked Halo",true);
+                embed.addField("Monster Name","Bubble Angel",true);
+                embed.addField("Map Location","Shrine of Gods",true);
+            break;
+            case "cloth":
+            case "beast":
+            case "wood":
+            case "medicine":
+            case "mana":
+            default:
+                embed.setDescription("Comming Soon");
+                break;
+        }
         message.channel.send(embed);
     }
 }
