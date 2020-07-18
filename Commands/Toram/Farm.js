@@ -7,7 +7,7 @@ module.exports = {
     usage: "name [<name>|<add>|<update>|<delete>]",
     run: async (client, message, args)=>{
         let farm = new Array("metal","cloth","beast","wood","medicine","mana");
-        let name = farm.filter(f=>{ return f === args[0];});
+        let name = farm.filter(f=>{ return f === args[0];})[0];
         console.log(name);
         if(!name) return message.channel.send("input farm list!");
         let embed = new Discord.MessageEmbed();
