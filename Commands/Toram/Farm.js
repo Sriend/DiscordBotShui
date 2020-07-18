@@ -1,7 +1,7 @@
 const Discord    = require("discord.js");
 module.exports = {
-    name: "farm list",
-    aliases: ["flist"],
+    name: "farm",
+    aliases: ["f"],
     group: "Toram",
     desc: "Show Item Price of Current",
     usage: "name [<name>|<add>|<update>|<delete>]",
