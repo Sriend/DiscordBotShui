@@ -15,7 +15,7 @@ bot.login(Token);
 // Ready
 bot.on('ready',()=>{
     console.log("Shui is Online");
-    let size = bot.guild.size();
+    let size = bot.guilds.size();
     bot.user.setActivity(`Developing... ${size} Guilds!`,{type:"PLAYING"});
 });
 // Guild Member Add
