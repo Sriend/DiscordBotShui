@@ -1,0 +1,120 @@
+Blade 7
+Blade Skill, Trigger Slash, AMPR Buff
+Blade Skill, Rampage, AMPR Buff
+Blade Skill, Meteor Breaker, Main Single DMG
+Blade Skill, Sword Tempest, Aoe DMG
+Blade Skill, Buster Blade, HP Rec
+Blade Skill, Berserk, DMG Buff
+Blade Skill, Warcry, DMG Buff
+Shot 4
+Shot Skill, Snipe, Main Single DMG
+Shot Skill, Crossfire, Main AoE DMG
+Shot Skill, Sneak Attack, Aggro Buff
+Shot Skill, Decoy, AMPR Bonus
+Magic 6
+Magic Skill, Magic: Finale, Main AoE DMG
+Magic Skill, Magic: Storm, AoE DMG
+Magic Skill, Magic: Burst, AoE DMG
+Magic Skill, Staff Mastery, DMG Buff
+Magic Skill, MP Charge, MP Rec
+Magic Skill, Maximizer, MP Rec
+Martial 3
+Martial Skill, Chariot, Main DMG
+Martial Skill, Rush, Main DMG
+Martial Skill, Chackra, MP Rec
+Dual Sword 6
+Dual Sword Skill, Phantom Slash, Main Single DMG
+Dual Sword Skill, Cross Parry, Resistance
+Dual Sword Skill, Shadow Step, AMPR Buff
+Dual Sword Skill, Shining Cross, Main Single DMG
+Dual Sword Skill, Storm Reaper, Main Single DMG
+Dual Sword Skill, Saber Aura, AMPR + ASPD Buff
+Halberd 7
+Halberd Skill, Dragon Tooth, Main Single DMG
+Halberd Skill, Dragon Tail, Resistance
+Halberd Skill, Dive Impact, AoE Damage
+Halberd Skill, Chronos Drive, AMPR Bonus
+Halberd Skill, Quick Aura, ASPD Buff
+Halberd Skill, War Cry of Struggle, MP Rec
+Halberd Skill, Godspeed Weild, ASPD Buff
+Mononofu 7
+Mononofu Skill, Hasso Happa, Main AoE DMG
+Mononofu Skill, Tenryu Ransei, Main Single DMG
+Mononofu Skill, Garyou Tensei, Main Single DMG
+Mononofu Skill, Magadachi, DMG + Buff
+Mononofu Skill, Zantei Settetsu, Resistance Counter
+Mononofu Skill, Shukuchi, AMPR + Movement
+Mononofu Skill, Kairiki Raisen, DMG Buff
+Guard 1
+Guard Skill, Mirage Evasion, Dodge Buff
+Shield 7
+Shield Skill, Shield Bash, Stun CC
+Shield Skill, Shield Cannon, Stun CC
+Shield Skill, Force Shield, P.DMG Reduction
+Shield Skill, Magical Shield, M.DMG Reduction
+Shield Skill, Protection, P.Resitance
+Shield Skill, Aegis, M.Resistance
+Shield Skill, Guardian, Aggro Main
+Dagger 4
+Dagger Skill, Galting Knife, Single DMG
+Dagger Skill, Amazing Throw, Passive Buff
+Dagger Skill, Poison Dagger, Poison DMG
+Dagger Skill, Mail Breaker, Buff
+Knight 3
+Knight Skill, P.Defense, Defense Main
+Knight Skill, Fareth, ATK Buff
+Knight Skill, Knight Will, Passive Buff
+Priest 3
+Priest Skill, Enhanced Bless, Heal Buff
+Priest Skill, Royal Heal, Heal AoE
+Priest Skill, Prayer, MATK Buff
+Assassin 3
+Assassin Skill, Backstep, Dodge + AMPR
+Assassin Skill, Assassin Stab, Single DMG
+Assassin Skill, Arcane Strike, Single DMG
+Wizard 3
+Wizard Skill, Familia, Main Skill
+Wizard Skill, Blizzard, Main AoE DMG
+Wizard Skill, Stone Barrier, Guard Buff
+Hunter 1
+Hunter Skill, Satellite Arrow, Main DMG
+Survival 5
+Survival Skill, Play Dead, Buff
+Survival Skill, HP Boost, Max HP Buff
+Survival Skill, MP Boost, Max MP Buff
+Survival Skill, Exp Gain Up, EXP Buff
+Survival Skill, Drop Rate Up, Drop Buff
+Support 6
+Support Skill, First Aid, Buff
+Support Skill, Brave Aura, DMG Buff
+Support Skill, Quick Motion, SPD Buff
+Support Skill, Recovery, Clear DeBuff
+Support Skill, Santuary, DMG Reduction
+Support Skill, Heal, HP Recovery
+Minstrel 2
+Minstrel Skill, Fantasy Song, MP Recovery
+Minstrel SKill, Ad-Lib, MP Bonus
+Dancer 3
+Dancer Skill, Spirited Dance, MP Buff
+Dancer Skill, Elegant Poise, Invicible Buff
+Dancer Skill, Nature's Wonder, Heal Buff
+Battle 3
+Battle Skill, Increased Energy, DMG Buff
+Battle Skill, Spell Burst, DMG Buff
+Battle Skill, Imitading Power, DMG Buff
+Smith 5
+Smith Skill, Process Material, Proc Material
+Smith Skill, Master Anvil, Craft + Fill Status
+Smith Skill, Expert's Refinement, Refine
+Smith Skill, Expert's Creation, Craft
+Smith Skill, Expert's Customization, Fill Status
+Alchemy 4
+Alchemy Skill, Process Material, Proc Material
+Alchemy Skill, Master's Bottle, Craft + Lock
+Alchemy Skill, Expert's Synthesis, Craft
+Alchemy Skill, Techinal Synthesis, Lock
+Tamer 4
+Tamer Skill, Capture Technique II, Tamer Buff
+Tamer Skill, Careful Capture, Tamer Buff
+Tamer Skill, Pet HP Charge, Pet HP Buff
+Tamer Skill, Pet MP Charge, Pet MP Buff

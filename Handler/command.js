@@ -11,9 +11,9 @@ module.exports = (bot)=>{
                 bot.tables.addRow(pull.name,pull.group,file,true);
                 bot.groups.push([pull.group,pull.name,true]);
             }else{
-                bot.commands.set(pull.name,pull);
-                bot.tables.addRow(pull.name,pull.group,file,false);
-                bot.groups.push([pull.group,pull.name,false]);
+                //bot.commands.set(pull.name,pull);
+                //bot.tables.addRow(pull.name,pull.group,file,false);
+                //bot.groups.push([pull.group,pull.name,false]);
                 continue;
             }
             if(pull.aliases && Array.isArray(pull)){

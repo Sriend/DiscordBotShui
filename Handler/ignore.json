@@ -1,7 +1,9 @@
 {
     "name":[
         "roll",
-        "build",
+        "avatar",
+        "invite",
+        "/build",
         "combo",
         "dungeon",
         "event",
@@ -13,9 +15,11 @@
         "maze",
         "skill",
         "/toramnews",
+        "/town",
         "/ping",
         "/avatar",
         "/recipe",
+        "/git",
         "set count",
         "clear"
     ]

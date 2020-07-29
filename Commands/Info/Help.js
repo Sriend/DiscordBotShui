@@ -1,18 +1,20 @@
 const Discord    = require("discord.js");
 module.exports = {
     name: "help",
-    aliases: "",
+    aliases: "h",
     group: "Info",
     desc: "Show Information of Commands",
     usage: "<input>",
     run: async (bot, message, args)=>{
         let embed = new Discord.MessageEmbed();
-        if(args){
+        let value = args.join(" ");
+        if(value){
             embed.setTitle("Shuinya Help Command List!");
-            embed.setDescription(`${args}`);
-            embed.addField();
-        }
-        else{
+            embed.setDescription(`${value}`);
+            //embed.addField();
+            // Send Command
+            message.channel.send(embed);
+        }else{
             embed.setTitle("Shuinya Help Command List!");
             embed.setDescription("Type ``Help [Command|Group]`` for Detailed Information!");
             // Game Command
@@ -40,7 +42,7 @@ module.exports = {
             cstr = ""; cmdlist.forEach(cmd =>{cstr += `\`\`${cmd[1]}\`\` `;});
             if(cstr !== ""){embed.addField("Utility Command",cstr);}
             // Send Command
-            message.channel.send(embed);    
+            message.channel.send(embed);
         }
     }
 }

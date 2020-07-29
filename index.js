@@ -1,6 +1,6 @@
 const Discord    = require("discord.js");
 const bot        = new Discord.Client({disableEveryone: true});
-//const Auth       = require(__dirname+"/Auth.json");
+const Auth       = require(__dirname+"/Auth.json");
 const ascii      = require("ascii-table");
 //const command    = require(__dirname+"/Commands");
 bot.commands     = new Discord.Collection();
@@ -9,8 +9,8 @@ bot.groups       = new Array();
 bot.aliases      = new Discord.Collection();
 bot.stats        = {serverID: "", total: "", member: "", bot: ""};
 ["command.js"].forEach(handler =>{require(`./Handler/${handler}`)(bot);});
-const Token = process.env.BOT_TOKEN;
-//const Token = Auth.token;
+//const Token = process.env.BOT_TOKEN;
+const Token = Auth.token;
 bot.login(Token);
 // Ready
 bot.on('ready',()=>{
