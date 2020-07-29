@@ -1,7 +1,7 @@
 const Discord    = require("discord.js");
 module.exports = {
     name:"build",
-    aliases:"",
+    aliases:"build",
     group:"Toram",
     desc:"Show Skill Build",
     usage: "<Weapon Type><Num>",
@@ -23,9 +23,10 @@ module.exports = {
         let skill1 = "\u200b";
         let skill2 = "\u200b";
         let skill3 = "\u200b";
-        fs         = require("fs");
-        let file = fs.readFileSync(`../../Database/Toram/build.txt`);
-        console.log(file);
+        let fs     = require("fs");
+        fs.readFile('../../Database/Toram/build.txt','utf8',function(err,data){
+            console.log(data);
+        });
             /*skill = contents.split("\n");
             skill.forEach(skill => {
                 let result = skill.split(", ");
